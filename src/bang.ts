@@ -122058,7 +122058,8 @@ export const bangs = [
     d: "daraz.com.bd",
     r: 0,
     s: "Daraz",
-	t: "drz"
+	sc: "Ecommerce",
+	t: "drz",
     u: "https://www.daraz.com.bd/catalog/?q={{{s}}}",
   },
   {
@@ -122066,7 +122067,8 @@ export const bangs = [
     d: "daraz.com.bd",
     r: 0,
     s: "Daraz",
-	t: "spno"
+	sc: "Ecommerce",
+	t: "spno",
     u: "https://www.shwapno.com/search?q={{{s}}}",
   },
 ];
