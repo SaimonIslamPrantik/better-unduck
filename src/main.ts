@@ -22,7 +22,7 @@ function noSearchDefaultPageRender() {
         </div>
       </div>
       <footer class="footer">
-        <a href="Prantik" target="_blank">https://prantik1.netlify.app/</a>
+        <a href="https://prantik1.netlify.app/" target="_blank">Prantik</a>
         •
         <a href="https://x.com/saimonprantik" target="_blank">Twitter</a>
         •
