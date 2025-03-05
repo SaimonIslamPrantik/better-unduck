@@ -34793,7 +34793,7 @@ export const bangs = [
     s: "Facebook",
     sc: "Social",
     t: "fb",
-    u: "https://www.facebook.com/search.php/?q={{{s}}}",
+    u: "https://www.facebook.com/search/top/?q={{{s}}}",
   },
   {
     c: "Online Services",
