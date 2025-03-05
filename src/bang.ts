@@ -122053,4 +122053,20 @@ export const bangs = [
     t: "\u10d0\u10e1\u10e2\u10e0\u10dd",
     u: "http://astronet.ge/?s={{{s}}}",
   },
+  {
+    c: "ecommerce",
+    d: "daraz.com.bd",
+    r: 0,
+    s: "Daraz",
+	t: "drz"
+    u: "https://www.daraz.com.bd/catalog/?q={{{s}}}",
+  },
+  {
+    c: "ecommerce",
+    d: "daraz.com.bd",
+    r: 0,
+    s: "Daraz",
+	t: "spno"
+    u: "https://www.shwapno.com/search?q={{{s}}}",
+  },
 ];
