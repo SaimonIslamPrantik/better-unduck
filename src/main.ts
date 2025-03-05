@@ -7,7 +7,7 @@ function noSearchDefaultPageRender() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>Better-Und*ck</h1>
-        <p>DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables <a href="https://duckduckgo.com/bang.html" target="_blank">all of DuckDuckGo's bangs.</a> Better-Und*ck uses Startpage by default for privacy and adds only the DuckDuckGo bangs! or no bloat bs</p>
+        <p>DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables <a href="https://duckduckgo.com/bang.html" target="_blank">all of DuckDuckGo's bangs.</a> Better-Und*ck uses Startpage by default for privacy and adds only the DuckDuckGo bangs! no bloat or bs</p>
         <p>Fork of <a href="https://github.com/t3dotgg/unduck">Und*ck</a></p>
         <div class="url-container"> 
           <input 
