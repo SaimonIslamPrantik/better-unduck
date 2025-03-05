@@ -12,6 +12,6 @@ DuckDuckGo does their redirects server side. Their DNS is...not always great. Re
 
 Unduck solves this by doing all of the work client side. Once you've went to https://better-unduck.vercel.app once, the JS is all cache'd and will never need to be downloaded again. Your device does the redirects, not me.
 
-## Why to use Better-Unduck Insted of Unduck
+## Why to use Better-Unduck Insted of Unduck?
 
-Better-Unduck uses Startpage as it's default search engine cause it's results are identical to Google's but provides far better privacy
+Better-Unduck uses Startpage as it's default search engine cause it's results are identical to Google's but provides far better privacy.
