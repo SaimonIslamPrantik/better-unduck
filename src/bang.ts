@@ -122071,4 +122071,13 @@ export const bangs = [
 	t: "spno",
     u: "https://www.shwapno.com/search?q={{{s}}}",
   },
+  {
+    c: "piracy",
+    d: "cutt.ly/quackedgg",
+    r: 0,
+    s: "QuackedGG",
+	sc: "Piracy",
+	t: "qgg",
+    u: "https://cse.google.com/cse?cx=36ac96e5f3aac4939#gsc.tab=0&gsc.q={{{s}}}&gsc.sort=",
+  },
 ];
