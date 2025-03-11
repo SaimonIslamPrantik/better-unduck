@@ -122064,9 +122064,9 @@ export const bangs = [
   },
   {
     c: "ecommerce",
-    d: "daraz.com.bd",
+    d: "swapno.com",
     r: 0,
-    s: "Daraz",
+    s: "Swapno",
 	sc: "Ecommerce",
 	t: "spno",
     u: "https://www.shwapno.com/search?q={{{s}}}",
@@ -122078,6 +122078,6 @@ export const bangs = [
     s: "QuackedGG",
 	sc: "Piracy",
 	t: "qgg",
-    u: "https://cse.google.com/cse?cx=36ac96e5f3aac4939#gsc.tab=0&gsc.q={{{s}}}&gsc.sort=",
+    u: "https://cse.google.com/cse?cx=36ac96e5f3aac4939#gsc.tab=0&gsc.q={{{s}}}",
   },
 ];
