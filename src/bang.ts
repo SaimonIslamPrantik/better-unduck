@@ -122087,6 +122087,6 @@ export const bangs = [
     s: "Perplexity",
 	sc: "ai",
 	t: "ppai",
-    u: "https://www.perplexity.ai/?q=%s",
+    u: "https://www.perplexity.ai/?q={{{s}}}",
   },
 ];
