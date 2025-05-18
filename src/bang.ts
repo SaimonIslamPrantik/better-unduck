@@ -122086,7 +122086,7 @@ export const bangs = [
     r: 0,
     s: "Perplexity",
 	sc: "ai",
-	t: "pp",
+	t: "ppai",
     u: "https://www.perplexity.ai/?q=%s",
   },
 ];
