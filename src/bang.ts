@@ -122080,4 +122080,13 @@ export const bangs = [
 	t: "qgg",
     u: "https://cse.google.com/cse?cx=36ac96e5f3aac4939#gsc.tab=0&gsc.q={{{s}}}",
   },
+  {
+    c: "ai",
+    d: "perplexity.ai",
+    r: 0,
+    s: "Perplexity",
+	sc: "ai",
+	t: "pp",
+    u: "https://www.perplexity.ai/?q=%s",
+  },
 ];
